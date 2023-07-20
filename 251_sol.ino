@@ -1,14 +1,11 @@
-// ESP32 will make post requests to server on local network
-// ESP32 has to be on same network
 
-//  including libraries
 #include<WiFi.h>
 
 //  wifi credentials
-const char ssid[] = "home sweet home";
-const char password[] = "password1998";
+const char ssid[] = "DHIRAJ 2007";
+const char password[] = "76894688";
 
-//  potpin on GPIO 34
+
 const int potpin = 34;
 
 void setup()
